@@ -1,7 +1,7 @@
 # Agriculture-Vision-Challenge
 Computer vision for agriculture workshop at CVPR 2020
 
-![Challenge page](Agri_Vision_screenshot.png)
+![Challenge page](Agri_Vision_screenshot_1.png)
 
 # Codalab challange 
 
