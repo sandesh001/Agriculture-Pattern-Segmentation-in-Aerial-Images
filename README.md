@@ -10,3 +10,7 @@ Link: https://competitions.codalab.org/competitions/23732?secret_key=dba10d3a-a6
 # Link for Agriculture-Vision Dataset
 
 Link: https://www.agriculture-vision.com/agriculture-vision-2020/dataset
+
+# Requirement
+
+Tensorflow 2.0.0
