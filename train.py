@@ -97,7 +97,7 @@ val_file = np.load('val.npy')
 
 #train_file, val_file = train_test_split(train_file, test_size = 0.1, random_state = 0)
 
-class_list = ['boundaries','cloud_shadow', 'double_plant', 'planter_skip', 'standing_water', 'waterway', 'weed_cluster']
+class_list = ['cloud_shadow', 'double_plant', 'planter_skip', 'standing_water', 'waterway', 'weed_cluster']
 #class_list = ['cloud_shadow', 'double_plant', 'planter_skip', 'standing_water', 'waterway']
 
 
