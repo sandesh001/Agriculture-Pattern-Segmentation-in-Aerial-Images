@@ -9,7 +9,7 @@ Accepted paper Link: https://iitrpr.cvip2021.com/accepted-papers-list/
 ![Challenge page](segmentation_results.png)
 
 # Quantitative results
-![Challenge page](Quantitative_results.png)
+![Challenge page](Quantitative_results.PNG)
 
 Dataset taken from Computer Vision for Agriculture challenge
 # Link for Agriculture-Vision Dataset
