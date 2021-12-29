@@ -1,4 +1,8 @@
 # Paper Accepted at Computer Vision and Image Provessing (CVIP-2021) Conferance 
+
+# Proposed Ms-Net Architecture
+![Challenge page](model_new.png)
+
 Dataset taken from Computer Vision for Agriculture challenge
 # Link for Agriculture-Vision Dataset
 
