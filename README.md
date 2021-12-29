@@ -1,7 +1,15 @@
 # Paper Accepted at Computer Vision and Image Provessing (CVIP-2021) Conferance 
 
+Accepted paper Link: https://iitrpr.cvip2021.com/accepted-papers-list/
+
 # Proposed Ms-Net Architecture
-![Challenge page](model_new.png)
+![Challenge page](model_new.jpg)
+
+# Qualitative results
+![Challenge page](segmentation_results.png)
+
+# Quantitative results
+![Challenge page](Quantitative_results.png)
 
 Dataset taken from Computer Vision for Agriculture challenge
 # Link for Agriculture-Vision Dataset
