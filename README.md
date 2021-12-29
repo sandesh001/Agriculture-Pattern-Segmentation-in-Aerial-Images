@@ -1,4 +1,4 @@
-# Paper Accepted at Computer Vision and Image Provessing (CVIP-2021) Conferance 
+# Paper Accepted at Computer Vision and Image Processing Conference (CVIP-2021)
 
 Accepted paper Link: https://iitrpr.cvip2021.com/accepted-papers-list/
 
