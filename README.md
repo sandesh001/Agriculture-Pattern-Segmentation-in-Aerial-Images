@@ -1,5 +1,8 @@
-# Agriculture-Vision-Challenge
-Computer vision for agriculture workshop at CVPR 2020
+# Paper Accepted at Computer Vision and Image Provessing (CVIP-2021) Conferance 
+Dataset taken from Computer Vision for Agriculture challenge
+# Link for Agriculture-Vision Dataset
+
+Link: https://www.agriculture-vision.com/agriculture-vision-2020/dataset
 
 ![Challenge page](Agri_Vision_screenshot_1.png)
 
@@ -7,9 +10,7 @@ Computer vision for agriculture workshop at CVPR 2020
 
 Link: https://competitions.codalab.org/competitions/23732?secret_key=dba10d3a-a676-4c44-9acf-b45dc92c5fcf 
 
-# Link for Agriculture-Vision Dataset
 
-Link: https://www.agriculture-vision.com/agriculture-vision-2020/dataset
 
 # Requirement
 
