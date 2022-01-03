@@ -6,20 +6,20 @@ Accepted paper Link: https://iitrpr.cvip2021.com/accepted-papers-list/
 ![Challenge page](model_new.jpg)
 
 # Qualitative results
-![Challenge page](segmentation_results.png)
+![Challenge page](docs/segmentation_results.png)
 
 # Quantitative results
-![Challenge page](Quantitative_results.PNG)
+![Challenge page](docs/Quantitative_results.PNG)
 
 # Comparison with state-of-the-are Architectures
-![Challenge page](all_models.png)
+![Challenge page](docs/all_models.png)
 
 Dataset taken from Computer Vision for Agriculture challenge
 # Link for Agriculture-Vision Dataset
 
 Link: https://www.agriculture-vision.com/agriculture-vision-2020/dataset
 
-![Challenge page](Agri_Vision_screenshot_1.png)
+![Challenge page](docs/Agri_Vision_screenshot_1.png)
 
 # Requirement
 
